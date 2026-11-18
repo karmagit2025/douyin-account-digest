@@ -1,0 +1,20 @@
+# 输出与缓存（不要提交）
+dy_out/
+.hf-cache/
+*.mp4
+*.wav
+*.part
+login_qr.png
+login_ok.png
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
